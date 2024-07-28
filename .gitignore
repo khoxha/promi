@@ -1,0 +1,31 @@
+Kaur paper/
+.DS_Store
+*.xlsx
+*.pdf
+*.zip
+*.pptx
+__pycache__/
+promi_env/
+BPI Challenge 2017_1_all/
+Process Discovery Contest 2023_1_all/
+*.mov
+*.png
+*.svg
+*.ipynb
+*.docx
+*.txt
+.DS_Store
+*.xlsx
+*.pdf
+*.zip
+*.pptx
+__pycache__/
+promi_env/
+BPI Challenge 2017_1_all/
+Process Discovery Contest 2023_1_all/
+*.mov
+*.png
+*.svg
+*.ipynb
+*.docx
+*.txt
